@@ -1,0 +1,244 @@
+
+
+.CONOCE-TODOS-LOS {
+  position: relative; /* Cambio de posición a relativa */
+  font-family: "Work Sans-Bold", Helvetica;
+  font-weight: 400;
+  color: transparent;
+  font-size: 44.6px;
+  line-height: 44.6px;
+ 
+}
+
+
+
+
+.text-wrapper {
+  font-weight: 600;
+  color: #39a900;
+  letter-spacing: 6.69px;
+  line-height: 40.2px;
+}
+
+.span {
+  font-family: "Work Sans-Regular", Helvetica;
+  color: #39a900;
+  letter-spacing: 6.69px;
+  line-height: 40.2px;
+}
+
+.span2 {
+  font-family: "Work Sans-Regular", Helvetica;
+  color: #00314d;
+  letter-spacing: 6.69px;
+  line-height: 40.2px;
+}
+
+.text-wrapper-2 {
+  font-family: "Work Sans-Regular", Helvetica;
+  color: #00314d;
+  font-size: 31.2px;
+  letter-spacing: 4.69px;
+  line-height: 40.2px;
+}
+
+.text-wrapper-3 {
+  font-family: "Work Sans-Regular", Helvetica;
+  color: #39a900;
+  font-size: 31.2px;
+  letter-spacing: 4.69px;
+}
+
+.text-wrapper-4 {
+  font-family: "Work Sans-Regular", Helvetica;
+  color: #002340;
+  letter-spacing: 22.31px;
+}
+
+.text-wrapper-5 {
+  font-family: "Work Sans-Regular", Helvetica;
+  color: #002340;
+  letter-spacing: 6.69px;
+}
+
+.text-wrapper-6 {
+  font-family: "Work Sans-Regular", Helvetica;
+  color: #002340;
+  font-size: 14.3px;
+  letter-spacing: 2.14px;
+}
+
+
+
+.hembra {
+  position: fixed;
+  bottom: 59px;
+  left: 0px;
+}
+
+.botones {
+  margin-right: 150px;
+  background-color: #efefef;
+  float: right;
+
+}
+
+.logo {
+
+  min-height: 50px;
+  max-height: 50px;
+
+}
+
+.productos {
+  
+  width: 400px;
+  margin-right: 299px;
+  background-color:transparent;
+  float: right;
+  margin-top: -150px;
+
+}
+.productosA {
+  position: absolute;
+  width: 300px;
+  left: 35%;
+  background-color:transparent;
+  margin-top: 300px;
+  align-self:center;
+  float: right;
+  
+  
+}
+
+.cuadro {
+  align-items: center;
+  margin-top: 12px;
+  margin-left: 1px;
+  margin-bottom: 12px;
+  margin-right: 1px;
+  height: 70px;
+  width: auto;
+  background-color: #39a900;
+
+
+}
+
+.barra {
+  position: absolute;
+  height: 50px;
+  width: 100%;
+  background-color: #39a900;
+  bottom: 0px;
+}
+
+.card {
+  position:absolute;
+  width: auto;
+  margin-right: 150px;
+  background-color: #efefef;
+  float: center;
+  
+
+
+}
+
+.hola{
+  position: absolute;
+  align-items: center;
+
+}
+
+
+
+
+
+
+.agregue-lea-modifique-y-elimine-productos-y-ofertas-educativas-tenga-en-cuenta-antes-de-cualquier-acci-n-verifique-si-el-producto-esta-disponible-en-su-respectiva-unidad-productiva,
+.agregue-lea-modifique-y-elimine-productos-y-ofertas-educativas-tenga-en-cuenta-antes-de-cualquier-acci-n-verifique-si-el-producto-esta-disponible-en-su-respectiva-unidad-productiva
+  * {
+  box-sizing: border-box;
+}
+.agregue-lea-modifique-y-elimine-productos-y-ofertas-educativas-tenga-en-cuenta-antes-de-cualquier-acci-n-verifique-si-el-producto-esta-disponible-en-su-respectiva-unidad-productiva {
+  text-align: left;
+  position: relative;
+  width: 1047px;
+  height: 147px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.agregue-lea-modifique-y-elimine-productos-y-ofertas-educativas-tenga-en-cuenta-antes-de-cualquier-acci-n-verifique-si-el-producto-esta-disponible-en-su-respectiva-unidad-productiva-span {
+  color: #00314d;
+  font: 700 35.89px/32.3px "Work Sans", sans-serif;
+}
+.agregue-lea-modifique-y-elimine-productos-y-ofertas-educativas-tenga-en-cuenta-antes-de-cualquier-acci-n-verifique-si-el-producto-esta-disponible-en-su-respectiva-unidad-productiva-span2 {
+  color: #39a900;
+  font: 400 25.12px/32.3px "Work Sans", sans-serif;
+}
+.agregue-lea-modifique-y-elimine-productos-y-ofertas-educativas-tenga-en-cuenta-antes-de-cualquier-acci-n-verifique-si-el-producto-esta-disponible-en-su-respectiva-unidad-productiva-span3 {
+  color: #002340;
+  font: 400 25.12px "Work Sans", sans-serif;
+}
+.agregue-lea-modifique-y-elimine-productos-y-ofertas-educativas-tenga-en-cuenta-antes-de-cualquier-acci-n-verifique-si-el-producto-esta-disponible-en-su-respectiva-unidad-productiva-span4 {
+  color: #002340;
+  font: 700 25px "Work Sans", sans-serif;
+}
+.agregue-lea-modifique-y-elimine-productos-y-ofertas-educativas-tenga-en-cuenta-antes-de-cualquier-acci-n-verifique-si-el-producto-esta-disponible-en-su-respectiva-unidad-productiva-span5 {
+  color: #002340;
+  font: 400 25.12px "Work Sans", sans-serif;
+}
+.agregue-lea-modifique-y-elimine-productos-y-ofertas-educativas-tenga-en-cuenta-antes-de-cualquier-acci-n-verifique-si-el-producto-esta-disponible-en-su-respectiva-unidad-productiva-span6 {
+  color: #39a900;
+  font: 400 20px "Work Sans", sans-serif;
+}
+.agregue-lea-modifique-y-elimine-productos-y-ofertas-educativas-tenga-en-cuenta-antes-de-cualquier-acci-n-verifique-si-el-producto-esta-disponible-en-su-respectiva-unidad-productiva-span7 {
+  color: #002340;
+  font: 700 16px "Work Sans", sans-serif;
+  text-decoration: underline;
+}
+.agregue-lea-modifique-y-elimine-productos-y-ofertas-educativas-tenga-en-cuenta-antes-de-cualquier-acci-n-verifique-si-el-producto-esta-disponible-en-su-respectiva-unidad-productiva-span8 {
+  color: #002340;
+  font: 400 35.89px "Work Sans", sans-serif;
+}
+.agregue-lea-modifique-y-elimine-productos-y-ofertas-educativas-tenga-en-cuenta-antes-de-cualquier-acci-n-verifique-si-el-producto-esta-disponible-en-su-respectiva-unidad-productiva-span9 {
+  color: #002340;
+  font: 400 35.89px "Work Sans", sans-serif;
+}
+.agregue-lea-modifique-y-elimine-productos-y-ofertas-educativas-tenga-en-cuenta-antes-de-cualquier-acci-n-verifique-si-el-producto-esta-disponible-en-su-respectiva-unidad-productiva-span10 {
+  color: #002340;
+  font: 400 11.48px "Work Sans", sans-serif;
+}
+
+.container{
+  position:absolute;
+  top: 10%;
+  left: 21vh ;
+ 
+}
+
+/* Estilos generales */
+* {
+  box-sizing: border-box;
+}
+
+/* Etiqueta .label */
+.label {
+  width: 100%; /* Cambio de ancho fijo a ancho 100% */
+}
+
+/* Etiqueta .CONOCE-TODOS-LOS */
+
+
+/* Resto de los estilos (se mantienen) */
+
+/* Media query para dispositivos móviles */
+@media (max-width: 768px) {
+  .label .CONOCE-TODOS-LOS {
+    font-size: 32px; /* Tamaño de fuente más pequeño para móviles */
+    line-height: 32px;
+  }
+
+  /* Resto de los ajustes de estilos para móviles */
+  /* Agrega aquí los estilos que necesites ajustar para pantallas más pequeñas */
+}
